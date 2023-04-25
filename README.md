@@ -3,10 +3,10 @@
 ## Overview
 
 En este workshop vamos a crear una aplicación mobile utilizando React Native, para ello usaremos Expo para generar el boilerplate inicial y sobre el modificar lo necesario para elaborar la aplicación que se describirá a continuación.
-
+estas seguro?
 ## Setup Inicial
 
-```bash???
+```bash
   // Instalamos expo-cli
   npm install -g expo-cli
 
