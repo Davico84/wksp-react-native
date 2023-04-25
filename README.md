@@ -6,7 +6,7 @@ En este workshop vamos a crear una aplicación mobile utilizando React Native, p
 
 ## Setup Inicial
 
-```bash
+```bash???
   // Instalamos expo-cli
   npm install -g expo-cli
 
