@@ -80,9 +80,9 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-    
+    top:20
   },
 });
